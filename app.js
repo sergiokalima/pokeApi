@@ -49,7 +49,7 @@ const createGraph = (pokemon) => {
       data: pokemon.stats.map((el) => el.base_stat),
       backgroundColor: [
         'rgb(54, 162, 235)',
-        'rgb(255, 205, 86)',
+        'rgb(225, 205, 86)',
         'rgb(125, 65, 86)',
         'rgb(155, 59, 232)',
         'rgb(24, 262, 35)',

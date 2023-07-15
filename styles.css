@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .primero{
   color: chocolate;
   margin-left: 20px;
@@ -45,3 +46,22 @@ body{
   -webkit-transfrom: scale(1.1);
   transform: scale(1.1);
 }
+=======
+.primero{
+  color: chocolate;
+  margin-left: 20px;
+}
+
+.form{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+>>>>>>> fb2a4ce3e430d6b55b73a99156a74e548ea01ddd
